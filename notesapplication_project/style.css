@@ -1,0 +1,26 @@
+.registration {
+  margin-top: 150px;
+}
+input[type="submit"] {
+  border-top-left-radius: 12px;
+  border-bottom-right-radius: 12px;
+  font-weight: bolder;
+  font-size: large;
+}
+input[type="submit"]:hover {
+  background-color: darkseagreen;
+}
+label {
+  font-weight: bold;
+}
+.sign-up-option {
+  font-size: 30px;
+  font-weight: bold;
+}
+
+.sign-up-option:hover {
+  text-decoration: underline;
+}
+.others {
+  margin-left: 900px;
+}

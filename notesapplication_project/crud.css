@@ -1,0 +1,16 @@
+input[type="submit"] {
+  cursor: pointer;
+}
+input[type="submit"] {
+  border-top-left-radius: 12px;
+  border-bottom-right-radius: 12px;
+  font-weight: bolder;
+  font-size: large;
+  padding: 12px;
+}
+input[type="submit"]:hover {
+  background-color: darkseagreen;
+}
+input[type="text"] {
+  padding: 15px;
+}
